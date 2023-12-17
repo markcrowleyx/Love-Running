@@ -344,7 +344,7 @@ main {
         top: 150px;
     }
 
-    #etxt-input:hover {
+    .text-input:hover {
         border-color: #f16c6b;
     }
 
